@@ -163,7 +163,6 @@ export const Info = (props) => {
         </ListGroup>
 
         <Meta>
-          <p></p>
           <b>Border Countries</b>
           {
             !borders.length ? (
